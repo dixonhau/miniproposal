@@ -18,5 +18,6 @@
 <h1>Domain Model</h1>
 <h1>Entity-Relationship Diagram</h1>
 <h1>Database Tables</h1>
+![Data](https://user-images.githubusercontent.com/11400016/67181897-76206780-f410-11e9-87a8-4c0f67f64bbf.jpg)
 <h1>User Interface</h1>
 <h1>Django server based Website</h1>
