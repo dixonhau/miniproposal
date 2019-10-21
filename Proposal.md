@@ -26,6 +26,8 @@
 <img src="https://user-images.githubusercontent.com/11400016/67187172-3b243100-f41c-11e9-8e39-abd7306cb451.png" />
 
 <h1>Database Tables</h1>
+<img src="https://user-images.githubusercontent.com/55488934/67191918-20a28580-f425-11e9-8311-b764b9709a29.jpg" />
+<img src="https://user-images.githubusercontent.com/55488934/67191919-20a28580-f425-11e9-9e5a-5b3f7a45aad8.jpg" />
 <p>Database table will store the information of employees such as ID, name, age, job title and mobile phone. It also used to store the link which directed to the employees' photo file for face recognition. Another database was created to store the username and password for authorized users to access the attendance system for record checking.
 
 <h1>User Interface</h1>
