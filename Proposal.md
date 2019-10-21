@@ -26,9 +26,11 @@
 <img src="https://user-images.githubusercontent.com/11400016/67187172-3b243100-f41c-11e9-8e39-abd7306cb451.png" />
 
 <h1>Database Tables</h1>
-<img src="https://user-images.githubusercontent.com/11400016/67181897-76206780-f410-11e9-87a8-4c0f67f64bbf.jpg" />
+<p>Database table will store the information of employees such as ID, name, age, job title and mobile phone. It also used to store the link which directed to the employees' photo file for face recognition. Another database was created to store the username and password for authorized users to access the attendance system for record checking.
 
 <h1>User Interface</h1>
 <img src="https://user-images.githubusercontent.com/11400016/67182458-d82d9c80-f411-11e9-9499-4dcc380e1d7e.jpg" />
+<img src="https://user-images.githubusercontent.com/11400016/67181897-76206780-f410-11e9-87a8-4c0f67f64bbf.jpg" />
+<p>A login page is used to ensure only the one who has the authority can access the data. After the correct username and password is entered, the second page will be shown with the attendance details of employees. Drop down menu for years and months, as well as search widget was added to provide convenient for users.</p>
 
 <h1>Django server based Website</h1>
