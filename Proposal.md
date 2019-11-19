@@ -37,3 +37,6 @@
 
 <h1>Django server based Website</h1>
 <p>Microsoft Azure/ Google Cloud/ AWS </p>
+
+<h1>Class Diagram</hi>
+<img src="https://user-images.githubusercontent.com/11400016/69170362-eec03400-0b34-11ea-9c4d-0a9aa00d3b3b.png" />
