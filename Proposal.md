@@ -37,7 +37,7 @@
 <p>A login page is used to ensure only the one who has the authority can access the data. After the correct username and password is entered, the second page will be shown with the attendance details of employees. Drop down menu for years and months, as well as search widget was added to provide convenient for users.</p>
 
 <h1>Django server based Website</h1>
-<p>Microsoft Azure/ Google Cloud/ AWS </p>
+<p>Python Django </p>
 
 <h1>Class Diagram</h1>
 <img src="https://user-images.githubusercontent.com/11400016/69170362-eec03400-0b34-11ea-9c4d-0a9aa00d3b3b.png" />
